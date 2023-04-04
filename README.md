@@ -4,10 +4,99 @@ An archive for my competitive programming roadmap.
 
 ## Introduction
 
-Competitive programming is a type of sport where participants solve algorithmic problems in a set amount of time using a computer programming language. Participants are usually given a set of problems to solve, and they must write code to solve them as quickly and efficiently as possible.
+Competitive programming is a sport where participants solve algorithmic problems using a computer
+programming language under time pressure. It helps improve programming skills, 
+provides networking opportunities with other programmers, and can be a fun and rewarding experience. 
+It allows programmers to showcase their skills and may even lead to job opportunities in the tech industry.
 
-Competitive programming is important for several reasons. First, it helps participants improve their programming skills by challenging them to solve complex problems under time pressure. This can help them become more efficient and effective programmers in their professional lives.
+## Getting Started
 
-Second, competitive programming provides an opportunity for participants to network and connect with other programmers. They can learn from each other and share tips and tricks for solving problems.
+### What is Competitive Programming?
 
-Finally, competitive programming can be a fun and rewarding experience for participants. It allows them to showcase their skills and compete against other talented programmers. This can be a great way to stay motivated and engaged in programming, and can even lead to job opportunities in the tech industry.
+Competitive programming is a sport where participants solve algorithmic problems using a computer
+
+
+programming language under time pressure. It helps improve programming skills, provides networking opportunities with other programmers, and can be a fun and rewarding experience. It allows programmers to showcase their skills and may even lead to job opportunities in the tech industry.
+
+
+### Why Competitive Programming?
+
+
+* It helps improve programming skills.
+* It provides networking opportunities with other programmers.
+* It can be a fun and rewarding experience.
+* It allows programmers to showcase their skills.
+* It may even lead to job opportunities in the tech industry.
+* It is a great way to learn new programming languages.
+
+### How to get started?
+<ul>
+    <li>Start with the basics. Learn the basics of programming and data structures.</li>
+    <li>Learn the basics of competitive programming. Learn the basics of competitive programming.</li>
+    <li>Start solving problems. Start solving problems on online judges.</li>
+    <li>Practice, practice, practice. Practice, practice, practice.</li>
+    <li>Learn new programming languages. Learn new programming languages.</li>
+    <li>Learn new data structures and algorithms. Learn new data structures and algorithms.</li>
+    <li>Participate in contests. Participate in contests.</li>
+    <li>Learn from your mistakes. Learn from your mistakes.</li>
+    <li>Have fun. Have fun.</li>
+</ul>
+
+Here are some plateforms to get started with competitive programming:
+
+* [Codeforces](https://codeforces.com/)
+* [Codechef](https://www.codechef.com/)
+* [AtCoder](https://atcoder.jp/)
+* [Topcoder](https://www.topcoder.com/)
+* [LeetCode](https://leetcode.com/)
+* [HackerRank](https://www.hackerrank.com/)
+* [HackerEarth](https://www.hackerearth.com/)
+
+
+## Resources
+
+### Books
+
+* [Competitive Programmer's Handbook](./books/Competitive%20Programmer's%20Handbook.pdf)
+* [Algorithms Notes for Professionals](./books/Algorithms%20Notes%20for%20Professionals.pdf)
+* [Data Structures and Algorithms in C++](./books/Data%20Structures%20and%20Algorithms%20in%20C%2B%2B.pdf)
+* [Steven Halim's Competitive Programming](./books/Steven%20Halim's%20Competitive%20Programming%203.pdf)
+
+### Websites
+
+* [GeeksforGeeks](https://www.geeksforgeeks.org/)
+* [CP-Algorithms](https://cp-algorithms.com/)
+
+### YouTube Channels
+
+- CP (4):
+	- [William Lin](https://www.youtube.com/@tmwilliamlin168)
+	- [Juferno](https://www.youtube.com/@Junferno)
+	- [Errichto](https://www.youtube.com/@Errichto)
+	- [Colin Galen](https://www.youtube.com/@ColinGalen)
+
+- Algorithms (10):
+	- [Reducible](https://www.youtube.com/@Reducible)
+	- [Computerphile](https://www.youtube.com/@Computerphile)
+	- [Sebastian Lague](https://www.youtube.com/@SebastianLague)
+	- [Spanning Tree](https://www.youtube.com/@SpanningTree)
+	- [Code Bullet](https://www.youtube.com/@CodeBullet)
+	- [Neetcode.io](https://www.youtube.com/@NeetCodeIO)
+	- [Pezzza's Work](https://www.youtube.com/@PezzzasWork)
+	- [ThePrimeagen](https://www.youtube.com/@ThePrimeagen)
+	- [Freya Holmer](https://www.youtube.com/@Acegikmo)
+	- [PrimerBlobs](https://www.youtube.com/@PrimerBlobs)
+
+- CS (8):
+	- [Computerphile](https://www.youtube.com/@Computerphile)
+	- [Spanning Tree](https://www.youtube.com/@SpanningTree)
+	- [Fireship](https://www.youtube.com/@Fireship)
+	- [ByteByteGo](https://www.youtube.com/@ByteByteGo)
+	- [ThePrimeagen](https://www.youtube.com/@ThePrimeagen)
+	- [Computer Science Morocco](https://www.youtube.com/@cs-morocco)
+	- [Fred Overflow](https://www.youtube.com/@fredoverflow)
+	- [FreeCodeCamp.ord](https://www.youtube.com/@freecodecamp)
+
+- Music Pause (2):
+	- [Jacob Collier](https://www.youtube.com/@jacobcollier)
+	- [Tony Ann](https://www.youtube.com/@tonyannmusic)
