@@ -1,0 +1,8 @@
+## <div align="left"><img src="https://github.com/AnasImloul/Leetcode-Solutions/blob/main/icons/data.svg" width="32px" align="left"/>Database-solutions</div>
+<br>
+
+| Problem name | Difficulty | Languages | LeetCode |
+|:-------------|:----------:|:----------|:--------:|
+|[Trips and Users](./Trips%20and%20Users)|<img src="https://github.com/AnasImloul/Leetcode-Solutions/blob/main/icons/hard.svg" height="12px" align="center"/>|<a href="./Trips%20and%20Users/Trips%20and%20Users.txt"><img src="https://github.com/AnasImloul/Leetcode-Solutions/blob/main/icons/mysql.svg" width="24px" align="center"/></a>|[link](https://www.leetcode.com/problems/trips-and-users)|
+|[Tree Node](./Tree%20Node)|<img src="https://github.com/AnasImloul/Leetcode-Solutions/blob/main/icons/medium.svg" height="12px" align="center"/>|<a href="./Tree%20Node/Tree%20Node.txt"><img src="https://github.com/AnasImloul/Leetcode-Solutions/blob/main/icons/mysql.svg" width="24px" align="center"/></a>|[link](https://www.leetcode.com/problems/tree-node)|
+|[Top Travellers](./Top%20Travellers)|<img src="https://github.com/AnasImloul/Leetcode-Solutions/blob/main/icons/easy.svg" height="12px" align="center"/>|<a href="./Top%20Travellers/Top%20Travellers.txt"><img src="https://github.com/AnasImloul/Leetcode-Solutions/blob/main/icons/mysql.svg" width="24px" align="center"/></a>|[link](https://www.leetcode.com/problems/top-travellers)|

@@ -1,0 +1,9 @@
+{
+    "id": "1171",
+    "name": "Remove Zero Sum Consecutive Nodes from Linked List",
+    "url": "https://www.leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list",
+    "premium": false,
+    "acceptance": 42.8,
+    "difficulty": "medium",
+    "topic": "algorithms"
+}
