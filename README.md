@@ -34,11 +34,11 @@ programming language under time pressure. It helps improve programming skills, p
     <li>Learn the basics of competitive programming. Learn the basics of competitive programming.</li>
     <li>Start solving problems. Start solving problems on online judges.</li>
     <li>Practice, practice, practice. Practice, practice, practice.</li>
-    <li>Learn new programming languages. Learn new programming languages.</li>
-    <li>Learn new data structures and algorithms. Learn new data structures and algorithms.</li>
-    <li>Participate in contests. Participate in contests.</li>
-    <li>Learn from your mistakes. Learn from your mistakes.</li>
-    <li>Have fun. Have fun.</li>
+    <li>Learn new programming languages.</li>
+    <li>Learn new data structures and algorithms.</li>
+    <li>Participate in contests.</li>
+    <li>Learn from your mistakes.</li>
+    <li>Have fun.</li>
 </ul>
 
 Here are some plateforms to get started with competitive programming:
