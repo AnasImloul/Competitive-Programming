@@ -14,12 +14,9 @@ It allows programmers to showcase their skills and may even lead to job opportun
 
 Competitive programming is a sport where participants solve algorithmic problems using a computer
 
-
 programming language under time pressure. It helps improve programming skills, provides networking opportunities with other programmers, and can be a fun and rewarding experience. It allows programmers to showcase their skills and may even lead to job opportunities in the tech industry.
 
-
 ### Why Competitive Programming?
-
 
 * It helps improve programming skills.
 * It provides networking opportunities with other programmers.
