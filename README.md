@@ -43,7 +43,7 @@ Here are some plateforms to get started with competitive programming:
 * [Codeforces](https://codeforces.com/)
 * [Codechef](https://www.codechef.com/)
 * [LeetCode](https://leetcode.com/)
-* [HackerRank](https://www.hackerrank.com/)
+* [CSES](https://www.cses.fi/problemset/)
 
 
 ## Resources
@@ -51,41 +51,27 @@ Here are some plateforms to get started with competitive programming:
 ### Books
 
 * [Competitive Programmer's Handbook](./books/Competitive%20Programmer's%20Handbook.pdf)
-* [Algorithms Notes for Professionals](./books/Algorithms%20Notes%20for%20Professionals.pdf)
 * [Data Structures and Algorithms in C++](./books/Data%20Structures%20and%20Algorithms%20in%20C%2B%2B.pdf)
 * [Steven Halim's Competitive Programming](./books/Steven%20Halim's%20Competitive%20Programming%203.pdf)
 
 ### Websites
 
-* [GeeksforGeeks](https://www.geeksforgeeks.org/)
 * [CP-Algorithms](https://cp-algorithms.com/)
+* [USACO](https://usaco.guide/)
 
 ### YouTube Channels
 
 - CP (4):
 	- [William Lin](https://www.youtube.com/@tmwilliamlin168)
-	- [Juferno](https://www.youtube.com/@Junferno)
 	- [Errichto](https://www.youtube.com/@Errichto)
 	- [Colin Galen](https://www.youtube.com/@ColinGalen)
 
-- Algorithms (10):
+- Algorithms & CS (10):
+  	- [Computer Science Morocco](https://www.youtube.com/@cs-morocco)
 	- [Reducible](https://www.youtube.com/@Reducible)
 	- [Computerphile](https://www.youtube.com/@Computerphile)
-	- [Sebastian Lague](https://www.youtube.com/@SebastianLague)
 	- [Spanning Tree](https://www.youtube.com/@SpanningTree)
 	- [Code Bullet](https://www.youtube.com/@CodeBullet)
 	- [Neetcode.io](https://www.youtube.com/@NeetCodeIO)
-	- [ThePrimeagen](https://www.youtube.com/@ThePrimeagen)
 	- [PrimerBlobs](https://www.youtube.com/@PrimerBlobs)
-
-- CS (8):
-	- [Computerphile](https://www.youtube.com/@Computerphile)
-	- [Spanning Tree](https://www.youtube.com/@SpanningTree)
-	- [Fireship](https://www.youtube.com/@Fireship)
-	- [ByteByteGo](https://www.youtube.com/@ByteByteGo)
-	- [ThePrimeagen](https://www.youtube.com/@ThePrimeagen)
-	- [Computer Science Morocco](https://www.youtube.com/@cs-morocco)
-
-- Music Pause (2):
-	- [Jacob Collier](https://www.youtube.com/@jacobcollier)
-	- [Tony Ann](https://www.youtube.com/@tonyannmusic)
+	- [ByteByteGo](https://www.youtube.com/@ByteByteGo)	
